@@ -11,14 +11,12 @@ the dataset and showcases the training performance using TensorBoard.
 
 ## Training Performance
 
-### Accuracy Graph
+### Sample Accuracy Graph
 
-Sample accuracy graph:
 ![Accuracy Plot](https://github.com/tjmccoy/Strike-Zone-Classifier/assets/144307884/3ecd1930-d13e-466c-b474-fcbd36c5d28c)
 
-### Loss Graph
+### Sample Loss Graph
 
-Sample loss graph:
 ![Loss plot](https://github.com/tjmccoy/Strike-Zone-Classifier/assets/144307884/40a58a24-e45d-4816-9155-ecddfadafee5)
 
 
